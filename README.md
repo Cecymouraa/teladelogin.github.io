@@ -30,3 +30,5 @@ Todo o design foi feito apenas com **HTML5** e **CSS3**, sem uso de JavaScript o
 
 ## Estrutura do Projeto
 
+![image](https://github.com/user-attachments/assets/c66e4f98-79c3-4a70-b8af-3f652b205eb6)
+
